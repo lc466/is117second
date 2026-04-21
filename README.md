@@ -1,3 +1,24 @@
+# AI Product Engineer — Portfolio (MVP)
+
+This repository contains a minimal Vite + React + TypeScript portfolio scaffold and a static MVP (Hero + project cards).
+
+Run locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+npm run preview
+```
+
+Notes:
+- This is a static MVP. Projects and case studies are kept in `projects/designsystem-notes.md` and can be converted into pages.
+- Use Formspree or a mailto fallback for lead capture to keep hosting static.
 # NJIT Student — Recruiter-Focused Portfolio
 
 This repository is a minimal, recruiter-friendly static portfolio scaffold intended to be hosted on GitHub Pages. It's optimized for quick scanning by NJ/NY recruiters and for weekly maintenance.
